@@ -1,0 +1,1 @@
+# GA_Scalp_Trading_Bot
