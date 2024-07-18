@@ -32,7 +32,7 @@ GA_Scalp_Trading_Bot/
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/GA_Scalp_Trading_Bot.git
+git clone https://github.com/protnshop/GA_Scalp_Trading_Bot.git
 cd GA_Scalp_Trading_Bot
 ```
 
